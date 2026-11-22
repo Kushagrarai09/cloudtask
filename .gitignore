@@ -1,0 +1,9 @@
+node_modules/
+dist/
+cdk.out/
+.env
+.env.*
+!.env.example
+.aws-sam/
+coverage/
+.DS_Store
